@@ -1,0 +1,1 @@
+source "/home/ovo/.deno/env.fish"

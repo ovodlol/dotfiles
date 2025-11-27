@@ -1,0 +1,19 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:piper"
+rev = "eaf6920"
+hash = "64713dcd74daf9ec644883a5895e5d1"
+
+[[plugin.deps]]
+use = "stelcodes/bunny"
+rev = "7137a44"
+hash = "58bfa473bcac8574400e573787954512"
+
+[[plugin.deps]]
+use = "uhs-robert/recycle-bin"
+rev = "1762676"
+hash = "c77042b4296544a9edb4849338056039"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-mocha"
+rev = "3edeb49"
+hash = "76b921b2d734331854d4a55b59a21388"
