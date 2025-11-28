@@ -34,7 +34,8 @@ alias apD "sudo apt satisfy"
 alias apP "apt info"
 alias apA "sudo apt autoremove"
 alias y "yazi"
-alias e "eza -TL=2 --icons=always "
+alias e "eza -TaL=2 --icons=always "
+
 
 # inicialização
 
@@ -60,5 +61,6 @@ alias e "eza -TL=2 --icons=always "
 
    # Limpe a tela para que as cores sejam aplicadas ao fundo e ao texto
    clear
+
 pokemon-colorscripts  -r
 starship init fish | source
